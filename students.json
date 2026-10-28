@@ -1,0 +1,38 @@
+{
+    "1": {
+        "name": "Lakshana",
+        "dept": "IT",
+        "room": "S22",
+        "registered_at": "2026-10-14 11:43:45"
+    },
+    "2": {
+        "name": "Monika",
+        "dept": "IT",
+        "room": "S01",
+        "registered_at": "2026-10-14 12:30:12"
+    },
+    "3": {
+        "name": "nishmitha",
+        "dept": "IT",
+        "room": "S56",
+        "registered_at": "2026-10-21 12:07:57"
+    },
+    "4": {
+        "name": "laksh",
+        "dept": "vlsi",
+        "room": "f66",
+        "registered_at": "2026-10-22 19:46:45"
+    },
+    "5": {
+        "name": "priya",
+        "dept": "FT",
+        "room": "f77",
+        "registered_at": "2026-10-23 16:19:09"
+    },
+    "6": {
+        "name": "Karthi",
+        "dept": "IT",
+        "room": "S55",
+        "registered_at": "2026-10-24 11:39:46"
+    }
+}
